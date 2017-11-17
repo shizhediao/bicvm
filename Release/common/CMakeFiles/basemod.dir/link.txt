@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++0x -O3 -fopenmp  -shared -Wl,-soname,libbasemod.so -o /data/diaoshizhe/bicvm/lib/libbasemod.so CMakeFiles/basemod.dir/recursive_autoencoder.cc.o CMakeFiles/basemod.dir/singlepropbase.cc.o CMakeFiles/basemod.dir/backpropagatorbase.cc.o CMakeFiles/basemod.dir/dictionary_embeddings.cc.o 
