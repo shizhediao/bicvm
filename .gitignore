@@ -4,12 +4,8 @@
 *.egg
 *.egg-info
 dist
-build
 eggs
 parts
-bin
-var
-lib
 sdist
 develop-eggs
 .installed.cfg

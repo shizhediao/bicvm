@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++0x -O3 -fopenmp  -shared -Wl,-soname,libtrainers.so -o /data/diaoshizhe/bicvm/lib/libtrainers.so CMakeFiles/trainers.dir/finite_grad_check.cc.o CMakeFiles/trainers.dir/train_adagrad.cc.o CMakeFiles/trainers.dir/train_sgd.cc.o CMakeFiles/trainers.dir/train_lbfgs.cc.o 
