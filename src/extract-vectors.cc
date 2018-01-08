@@ -21,12 +21,12 @@
 # endif
 
 // Local
-#include "common/shared_defs.h"
-#include "common/dictionary.h"
+#include "./common/shared_defs.h"
+#include "./common/dictionary.h"
 
-#include "common/config.h"
+#include "./common/config.h"
 
-#include "common/models.h"
+#include "./common/models.h"
 
 #include "common/senna.h"
 #include "common/reindex_dict.h"

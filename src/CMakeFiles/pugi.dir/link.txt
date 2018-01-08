@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -std=c++0x -O3 -fopenmp  -shared -Wl,-soname,libpugi.so -o /data/diaoshizhe/bicvm/lib/libpugi.so CMakeFiles/pugi.dir/pugi/pugixml.cpp.o 

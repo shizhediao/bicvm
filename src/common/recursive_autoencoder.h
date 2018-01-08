@@ -8,12 +8,12 @@
 
 #include <map>
 
-#include "common/shared_defs.h"
-#include "common/config.h"
-#include "common/dictionary.h"
-#include "common/senna.h"
-#include "common/reindex_dict.h"
-#include "common/dictionary_embeddings.h"
+#include "shared_defs.h"
+#include "config.h"
+#include "dictionary.h"
+#include "senna.h"
+#include "reindex_dict.h"
+#include "dictionary_embeddings.h"
 
 class SinglePropBase;
 class BackpropagatorBase;

@@ -9,11 +9,11 @@
 #include <map>
 #include <fstream>
 
-#include "common/shared_defs.h"
-#include "common/config.h"
-#include "common/dictionary.h"
-#include "common/senna.h"
-#include "common/reindex_dict.h"
+#include "shared_defs.h"
+#include "config.h"
+#include "dictionary.h"
+#include "senna.h"
+#include "reindex_dict.h"
 
 class DictionaryEmbeddings {
  public:
